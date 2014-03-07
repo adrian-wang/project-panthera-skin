@@ -2,8 +2,6 @@ project-panthera-skin
 =====================
 # An Analytical SQL Engine (ASE) for Hadoop #
 
-#### Project contact: [Zhihui Li] (mailto:zhihui.li@intel.com), [Liye Zhang](mailto:liye.zhang@intel.com), [Daoyuan Wang](mailto:daoyuan.wang@intel.com)
-
 ---
 ### OVERVIEW ###
 
@@ -14,7 +12,7 @@ This project is an independent version of ["Project Panthera"](<https://github.c
 
 - git clone https://github.com/adrian-wang/project-panthera-skin.git
 - cd project-panthera-skin/
-...........
+- ...........
 - panthera > select a from x where b > (select max(c) from y);
 
 ---
