@@ -32,6 +32,8 @@ import org.apache.hadoop.hive.ql.processors.SetProcessor;
 import org.apache.hadoop.hive.ql.session.SessionState;
 import org.apache.hadoop.hive.conf.HiveConf;
 
+import com.intel.ssg.dcst.panthera.parse.SkinDriver;
+
 /**
  * CommandProcessorFactory.
  *

@@ -71,6 +71,8 @@ import org.apache.hadoop.hive.shims.ShimLoader;
 import org.apache.hadoop.io.IOUtils;
 import org.apache.thrift.TException;
 
+import com.intel.ssg.dcst.panthera.parse.SkinDriver;
+
 import sun.misc.Signal;
 import sun.misc.SignalHandler;
 
